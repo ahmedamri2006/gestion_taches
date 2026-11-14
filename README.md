@@ -29,3 +29,5 @@ Version initiale de l'application réalisée.
 - Choisir 2 pour afficher les tâches.
 - Choisir 3 pour rechercher une tâche.
 - Choisir 0 pour quitter le programme.
+## Remarque
+Les tâches sont stockées dans une liste Python pendant l'exécution du programme.
