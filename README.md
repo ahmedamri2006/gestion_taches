@@ -1,5 +1,8 @@
-# Gestion des tâches
-
+## Utilisation
+- Choisir 1 pour ajouter une tâche.
+- Choisir 2 pour afficher les tâches.
+- Choisir 3 pour rechercher une tâche.
+- Choisir 0 pour quitter le programme.
 ## Description
 Application Python en console permettant de gérer une liste de tâches.
 
