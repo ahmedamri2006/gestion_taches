@@ -19,6 +19,7 @@ while True:
                     print("error")
             else:
                 taches.append(tt)
+                print("taches ajouter ")
             
 
 
